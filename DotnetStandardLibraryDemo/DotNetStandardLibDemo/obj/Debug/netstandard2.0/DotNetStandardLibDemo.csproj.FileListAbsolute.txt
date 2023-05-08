@@ -1,0 +1,10 @@
+C:\Users\UX507919\source\repos\DotnetStandardLibraryDemo\DotNetStandardLibDemo\bin\Debug\netstandard2.0\DotNetStandardLibDemo.deps.json
+C:\Users\UX507919\source\repos\DotnetStandardLibraryDemo\DotNetStandardLibDemo\bin\Debug\netstandard2.0\DotNetStandardLibDemo.dll
+C:\Users\UX507919\source\repos\DotnetStandardLibraryDemo\DotNetStandardLibDemo\bin\Debug\netstandard2.0\DotNetStandardLibDemo.pdb
+C:\Users\UX507919\source\repos\DotnetStandardLibraryDemo\DotNetStandardLibDemo\obj\Debug\netstandard2.0\DotNetStandardLibDemo.csproj.AssemblyReference.cache
+C:\Users\UX507919\source\repos\DotnetStandardLibraryDemo\DotNetStandardLibDemo\obj\Debug\netstandard2.0\DotNetStandardLibDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UX507919\source\repos\DotnetStandardLibraryDemo\DotNetStandardLibDemo\obj\Debug\netstandard2.0\DotNetStandardLibDemo.AssemblyInfoInputs.cache
+C:\Users\UX507919\source\repos\DotnetStandardLibraryDemo\DotNetStandardLibDemo\obj\Debug\netstandard2.0\DotNetStandardLibDemo.AssemblyInfo.cs
+C:\Users\UX507919\source\repos\DotnetStandardLibraryDemo\DotNetStandardLibDemo\obj\Debug\netstandard2.0\DotNetStandardLibDemo.csproj.CoreCompileInputs.cache
+C:\Users\UX507919\source\repos\DotnetStandardLibraryDemo\DotNetStandardLibDemo\obj\Debug\netstandard2.0\DotNetStandardLibDemo.dll
+C:\Users\UX507919\source\repos\DotnetStandardLibraryDemo\DotNetStandardLibDemo\obj\Debug\netstandard2.0\DotNetStandardLibDemo.pdb

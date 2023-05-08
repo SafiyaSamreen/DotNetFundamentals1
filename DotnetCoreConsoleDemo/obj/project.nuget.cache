@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ajR8WkRO8vzCupgBfEwV23iGVIct2OA/cCIUzzJj0m+JmWw1i7OAlyynqchIOkMGRHfRH4QthH2Y/8hBQLDBrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\UX507919\\source\\repos\\DotnetCoreConsoleDemo\\DotnetCoreConsoleDemo\\DotnetCoreConsoleDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UX507919\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

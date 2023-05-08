@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DotnetCoreConsoleDemo/1.0.0": {
+        "dependencies": {
+          "DotNetStandardLibDemo": "1.0.0"
+        },
+        "runtime": {
+          "DotnetCoreConsoleDemo.dll": {}
+        }
+      },
+      "DotNetStandardLibDemo/1.0.0": {
+        "runtime": {
+          "DotNetStandardLibDemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DotnetCoreConsoleDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DotNetStandardLibDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

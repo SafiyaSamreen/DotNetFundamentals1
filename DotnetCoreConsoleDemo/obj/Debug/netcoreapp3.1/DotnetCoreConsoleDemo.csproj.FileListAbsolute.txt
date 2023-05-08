@@ -1,0 +1,17 @@
+C:\Users\UX507919\source\repos\DotnetCoreConsoleDemo\DotnetCoreConsoleDemo\bin\Debug\netcoreapp3.1\DotnetCoreConsoleDemo.exe
+C:\Users\UX507919\source\repos\DotnetCoreConsoleDemo\DotnetCoreConsoleDemo\bin\Debug\netcoreapp3.1\DotnetCoreConsoleDemo.deps.json
+C:\Users\UX507919\source\repos\DotnetCoreConsoleDemo\DotnetCoreConsoleDemo\bin\Debug\netcoreapp3.1\DotnetCoreConsoleDemo.runtimeconfig.json
+C:\Users\UX507919\source\repos\DotnetCoreConsoleDemo\DotnetCoreConsoleDemo\bin\Debug\netcoreapp3.1\DotnetCoreConsoleDemo.runtimeconfig.dev.json
+C:\Users\UX507919\source\repos\DotnetCoreConsoleDemo\DotnetCoreConsoleDemo\bin\Debug\netcoreapp3.1\DotnetCoreConsoleDemo.dll
+C:\Users\UX507919\source\repos\DotnetCoreConsoleDemo\DotnetCoreConsoleDemo\bin\Debug\netcoreapp3.1\DotnetCoreConsoleDemo.pdb
+C:\Users\UX507919\source\repos\DotnetCoreConsoleDemo\DotnetCoreConsoleDemo\bin\Debug\netcoreapp3.1\DotNetStandardLibDemo.dll
+C:\Users\UX507919\source\repos\DotnetCoreConsoleDemo\DotnetCoreConsoleDemo\bin\Debug\netcoreapp3.1\DotNetStandardLibDemo.pdb
+C:\Users\UX507919\source\repos\DotnetCoreConsoleDemo\DotnetCoreConsoleDemo\obj\Debug\netcoreapp3.1\DotnetCoreConsoleDemo.csproj.AssemblyReference.cache
+C:\Users\UX507919\source\repos\DotnetCoreConsoleDemo\DotnetCoreConsoleDemo\obj\Debug\netcoreapp3.1\DotnetCoreConsoleDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UX507919\source\repos\DotnetCoreConsoleDemo\DotnetCoreConsoleDemo\obj\Debug\netcoreapp3.1\DotnetCoreConsoleDemo.AssemblyInfoInputs.cache
+C:\Users\UX507919\source\repos\DotnetCoreConsoleDemo\DotnetCoreConsoleDemo\obj\Debug\netcoreapp3.1\DotnetCoreConsoleDemo.AssemblyInfo.cs
+C:\Users\UX507919\source\repos\DotnetCoreConsoleDemo\DotnetCoreConsoleDemo\obj\Debug\netcoreapp3.1\DotnetCoreConsoleDemo.csproj.CoreCompileInputs.cache
+C:\Users\UX507919\source\repos\DotnetCoreConsoleDemo\DotnetCoreConsoleDemo\obj\Debug\netcoreapp3.1\DotnetCoreConsoleDemo.csproj.CopyComplete
+C:\Users\UX507919\source\repos\DotnetCoreConsoleDemo\DotnetCoreConsoleDemo\obj\Debug\netcoreapp3.1\DotnetCoreConsoleDemo.dll
+C:\Users\UX507919\source\repos\DotnetCoreConsoleDemo\DotnetCoreConsoleDemo\obj\Debug\netcoreapp3.1\DotnetCoreConsoleDemo.pdb
+C:\Users\UX507919\source\repos\DotnetCoreConsoleDemo\DotnetCoreConsoleDemo\obj\Debug\netcoreapp3.1\DotnetCoreConsoleDemo.genruntimeconfig.cache
